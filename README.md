@@ -167,11 +167,13 @@ Outreach performance metrics
 
 streamlit run dashboard.py
 
-![alt text](image.png)
+![Architecture Diagram](image.png)
 
-![alt text](image-1.png)
+![Architecture Diagram](image-1.png)
 
-![alt text](image-2.png)
+![Architecture Diagram](image-2.png)
+
+
 
 | Section               | Description                      |
 | --------------------- | -------------------------------- |
